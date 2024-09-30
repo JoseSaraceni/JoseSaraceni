@@ -32,4 +32,4 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-saraceni-vitor-66170122b/?original_referer=https%3A%2F%2Fgithub.com%2FJoseSaraceni)](https://www.linkedin.com/in/jos%C3%A9-saraceni-vitor-66170122b/?original_referer=https%3A%2F%2Fgithub.com%2FJoseSaraceni)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/JoseSaraceni))
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/JoseSaraceni)
