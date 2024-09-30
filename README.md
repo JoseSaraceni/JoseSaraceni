@@ -4,6 +4,7 @@
 - 🎓 Formado em Analisa e Desenvolvimento de Sistemas.
 - 💼 Trabalhando como Assistente de Suporte JR na CHG Automotiva.
 - 🌱 Aprendendo mais sobre Oracle DB / Java / HTML / CSS / JS.
+- 🗺️ Campinas SP
 
 ## Minhas Skills
 
@@ -24,12 +25,14 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<a href="https://github.com/JoseSaraceni" title="Perfil do Jose">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseSaraceni&theme=dracula&show_icons=true" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=JoseSaraceni&theme=algolia&show_icons=true)](https://github.com/JoseSaraceni)
+
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JoseSaraceni&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/JoseSaraceni)
 
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-saraceni-vitor-66170122b/?original_referer=https%3A%2F%2Fgithub.com%2FJoseSaraceni)](https://www.linkedin.com/in/jos%C3%A9-saraceni-vitor-66170122b/?original_referer=https%3A%2F%2Fgithub.com%2FJoseSaraceni)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/JoseSaraceni)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
