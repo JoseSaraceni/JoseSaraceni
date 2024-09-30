@@ -25,7 +25,6 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=JoseSaraceni&theme=algolia&show_icons=true)](https://github.com/JoseSaraceni)
 
