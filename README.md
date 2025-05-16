@@ -3,7 +3,7 @@
 
 - 🎓 Formado em Analisa e Desenvolvimento de Sistemas.
 - 💼 Trabalhando como Assistente de Suporte JR na CHG Automotiva.
-- 🌱 Aprendendo mais sobre Oracle DB / Java / HTML / CSS / JS.
+- 🌱 Aprendendo mais sobre Oracle DB / Java / HTML / CSS / Kotlin.
 - 🗺️ Campinas SP
 
 ## Minhas Skills
